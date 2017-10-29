@@ -1,0 +1,3 @@
+#Cube Sat
+## Description
+Cub sat  is one of  the small space-craft which is space based scientific and engineering based material. They have been responsible for reducing time and obtain latest science and technology results.It is made to overcome the size and the cost of large satellite.Cub sat  is one of  the small space-craft which is space based scientific and engineering based material. They have been responsible for reducing time and obtain latest science and technology results.It is made to overcome the size and the cost of large satellite.They used to demostrate spacecraft technologies that are targeted for use in small satellite or that present questionable feasibility and are unlikely to justify the cost of a larger satellite and minimize cost of deployment.
