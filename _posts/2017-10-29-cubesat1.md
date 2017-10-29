@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Github is awesome"
+image: ''
+date:   2017-10-29 00:06:31
+tags:
+- mongodb
+description: ''
+categories:
+- Learn GH 
+---
+
+## Introduction to cubesat
+
+##### H5 A CubeSat is a type of miniaturized satellite for space research that is made up of multiples of 10×10×10 cm cubic units. CubeSats have a mass of no more than 1.33 kilograms per unit, and often use commercial off-the-shelf components for their electronics and structure. CubeSats are most commonly put in orbit by deployers on the International Space Station, or launched as secondary payloads on a launch vehicle.
+
+## [History](https://en.wikipedia.org/wiki/CubeSat)
+##### H5 Started in 1999, the CubeSat Project began as a collaborative effort between Prof. Jordi PuigSuari at California Polytechnic State University (Cal Poly), San Luis Obispo, and Prof. Bob
+Twiggs at Stanford University's Space Systems Development Laboratory (SSDL). 
+
+## Purpose
+##### H5 The purpose of the project is to provide a standard for design of picosatellites to reduce cost and development time, increase accessibility to space, and sustain frequent launches. Presently, the CubeSat Project is an international collaboration of over 100 universities, high schools, and private firms developing picosatellites containing scientific, private, and government payloads. 
+The primary mission of the CubeSat Program is to provide access to space for small payloads. Developers benefit from the sharing of information within the community.
+
+
+## [Lists of CubeSat](https://en.wikipedia.org/wiki/List_of_CubeSats)
