@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Github is awesome"
+title:  "Electrically Powered Propulsion"
 image: ''
-date:   2016-03-12 00:06:31
-tags:
+date:   2017-10-29 00:04:23
+tags: cubesat, propulsion
 - mongodb
 description: ''
 categories:
