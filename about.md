@@ -11,12 +11,14 @@ Nepal being a developing country, has to depend on the resources of other nation
 - Weather information
 - Endless Opprortunities
 - Minimized chain dependencies
+- International Support's and Funding
 
 ## Challenges
 - Interested beings
 - Technical expertise
 - Fund Raising
 - Support from national level
+- Help from Volunters
 
 ## Opportunities
 - Being a modular system, anyone with knowledge can lend their ideas upon the builds of individual cubesats and submodules.
