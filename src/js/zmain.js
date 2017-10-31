@@ -7,11 +7,12 @@
     $("#close").show();
   });
 
-  $("#fade").click(function(){
+  $("#fade").click(function(e){
     $("#sidebar,a#slide,#fade").removeClass("slide");
     $("#open").show();
     $("#search").show();
     $("#close").hide();
+    e.preventDefault();
   });
 
   //Remove space scroll
